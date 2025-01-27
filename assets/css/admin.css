@@ -1,0 +1,28 @@
+/* admin.css */
+.wrap h1 {
+    margin-bottom: 20px;
+}
+
+.button.send-order {
+    margin-right: 10px;
+}
+
+textarea {
+    resize: none;
+    font-family: monospace;
+    font-size: 14px;
+    padding: 10px;
+    background-color: #f7f7f7;
+    border: 1px solid #ccc;
+}
+/* admin.css */
+
+/* Stilizare pentru butoanele personalizate */
+.send-superball-order, .send-all-superball-orders {
+    margin-right: 10px;
+}
+
+/* Opțional: Stilizare suplimentară pentru tabel */
+.wp-list-table th, .wp-list-table td {
+    text-align: center;
+}

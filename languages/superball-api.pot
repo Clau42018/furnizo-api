@@ -1,0 +1,104 @@
+msgid "Superball API"
+msgstr ""
+
+msgid "Superball API Integration"
+msgstr ""
+
+msgid "Automates the order flow with Superball supplier by sending orders via API with accurate company data for invoicing."
+msgstr ""
+
+msgid "API Key"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Testing Mode"
+msgstr ""
+
+msgid "Enable Testing Mode"
+msgstr ""
+
+msgid "Superball Orders"
+msgstr ""
+
+msgid "Send All Orders"
+msgstr ""
+
+msgid "Order ID"
+msgstr ""
+
+msgid "Client Name"
+msgstr ""
+
+msgid "Superball Products"
+msgstr ""
+
+msgid "Sent"
+msgstr ""
+
+msgid "Date Sent"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Send Order"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "An error occurred."
+msgstr ""
+
+msgid "Are you sure you want to send Order #"
+msgstr ""
+
+msgid "to Superball?"
+msgstr ""
+
+msgid "Are you sure you want to send all unsent orders to Superball?"
+msgstr ""
+
+msgid "Successfully sent %d orders."
+msgstr ""
+
+msgid "Failed to send %d orders."
+msgstr ""
+
+msgid "Unauthorized"
+msgstr ""
+
+msgid "Invalid Order ID"
+msgstr ""
+
+msgid "Order already sent"
+msgstr ""
+
+msgid "No Superball products in this order"
+msgstr ""
+
+msgid "Order not found"
+msgstr ""
+
+msgid "No unsent orders found."
+msgstr ""
+
+msgid "No logs available."
+msgstr ""
+
+msgid "Superball API Settings"
+msgstr ""
+
+msgid "API Configuration"
+msgstr ""
+
+msgid "Enter your Superball API credentials below."
+msgstr ""
+
+msgid "Debug Log"
+msgstr ""
